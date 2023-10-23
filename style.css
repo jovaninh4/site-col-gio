@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    background-color: #1e3e73;  
+    display: flex;
+}
+
+.main-login {
+    width: 50vw;
+    height: 6vh;
+}
